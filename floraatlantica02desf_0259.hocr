@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./floraatlantica02desf_0259.png"; bbox 0 0 2306 3148; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 624 145 2060 235">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 624 145 2060 235">
+     <span class='ocr_line' id='line_1_1' title="bbox 624 145 2060 235; baseline 0.003 -26"><span class='ocrx_word' id='word_1_1' title='bbox 624 145 1109 212; x_wconf 58' lang='lat' dir='ltr'><strong>CALENDULA</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1187 170 1530 235; x_wconf 58' lang='lat' dir='ltr'>tomentosa</span> <span class='ocrx_word' id='word_1_3' title='bbox 1559 205 1566 210; x_wconf 91' lang='lat'>.</span> <span class='ocrx_word' id='word_1_4' title='bbox 1954 166 2060 227; x_wconf 71' lang='lat'>245</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 116 237 2084 2846">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 116 237 2084 2846">
+     <span class='ocr_line' id='line_1_2' title="bbox 116 237 2084 2846; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 116 237 2084 2846; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 124 2838 2072 2881">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 124 2838 2072 2881">
+     <span class='ocr_line' id='line_1_3' title="bbox 124 2838 2072 2881; baseline -0.005 0"><span class='ocrx_word' id='word_1_6' title='bbox 124 2858 152 2880; x_wconf 76' lang='lat' dir='ltr'>P.</span> <span class='ocrx_word' id='word_1_7' title='bbox 163 2858 188 2881; x_wconf 84' lang='lat' dir='ltr'>J.</span> <span class='ocrx_word' id='word_1_8' title='bbox 197 2858 290 2881; x_wconf 47' lang='lat' dir='ltr'>lemnae</span> <span class='ocrx_word' id='word_1_9' title='bbox 304 2861 343 2880; x_wconf 67' lang='lat' dir='ltr'>del</span> <span class='ocrx_word' id='word_1_10' title='bbox 1225 2842 1226 2845; x_wconf 32' lang='lat'>¹</span> <span class='ocrx_word' id='word_1_11' title='bbox 1662 2838 1665 2840; x_wconf 33' lang='lat'><em>⁴</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 1909 2848 1998 2874; x_wconf 38' lang='lat' dir='ltr'>ks&#39;elhkr</span> <span class='ocrx_word' id='word_1_13' title='bbox 2024 2850 2057 2873; x_wconf 65' lang='grc' dir='ltr'>αὶ·</span> <span class='ocrx_word' id='word_1_14' title='bbox 2069 2865 2072 2869; x_wconf 90' lang='grc'>.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./floraatlantica02desf_0229.png"; bbox 0 0 2306 3148; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 641 184 1643 249">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 641 184 1643 249">
+     <span class='ocr_line' id='line_1_1' title="bbox 641 184 1643 249; baseline -0.002 -1"><span class='ocrx_word' id='word_1_1' title='bbox 641 184 1051 249; x_wconf 61' lang='lat' dir='ltr'>CARTHAM</span> <span class='ocrx_word' id='word_1_2' title='bbox 1068 201 1119 248; x_wconf 82' lang='lat' dir='ltr'><strong>U</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1140 200 1175 247; x_wconf 71' lang='lat' dir='ltr'>s</span> <span class='ocrx_word' id='word_1_4' title='bbox 1251 188 1643 247; x_wconf 59' lang='lat' dir='ltr'>holomoides.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 163 279 2115 281">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 163 279 2115 281">
+     <span class='ocr_line' id='line_1_2' title="bbox 163 279 2115 281; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 163 279 2115 281; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 157 282 165 2905">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 157 282 165 2905">
+     <span class='ocr_line' id='line_1_3' title="bbox 157 282 165 2905; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 157 282 165 2905; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 237 328 2081 2905">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 237 328 2081 2905">
+     <span class='ocr_line' id='line_1_4' title="bbox 237 328 2081 2905; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 237 328 2081 2905; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 2118 291 2130 2880">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 2118 291 2130 2880">
+     <span class='ocr_line' id='line_1_5' title="bbox 2118 291 2130 2880; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 2118 291 2130 2880; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 1081 2894 2124 2902">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 1081 2894 2124 2902">
+     <span class='ocr_line' id='line_1_6' title="bbox 1081 2894 2124 2902; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 1081 2894 2124 2902; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 168 2901 930 2905">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 168 2901 930 2905">
+     <span class='ocr_line' id='line_1_7' title="bbox 168 2901 930 2905; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 168 2901 930 2905; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

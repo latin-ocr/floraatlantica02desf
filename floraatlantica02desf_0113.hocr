@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./floraatlantica02desf_0113.png"; bbox 0 0 2306 3148; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 151 2837 2077 2878">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 151 2837 2077 2878">
+     <span class='ocr_line' id='line_1_1' title="bbox 151 2851 414 2878; textangle 270"><span class='ocrx_word' id='word_1_1' title='bbox 360 2853 414 2877; x_wconf 56' lang='grc' dir='ltr'><em>ἒ,</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 193 2851 349 2878; x_wconf 53' lang='grc' dir='ltr'><em>,ἐέξ</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 151 2853 185 2877; x_wconf 36' lang='grc' dir='ltr'><em>,ἢ</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1612 2837 2077 2877; textangle 270"><span class='ocrx_word' id='word_1_4' title='bbox 2029 2856 2077 2877; x_wconf 49' lang='lat'><em>..5</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1923 2853 2009 2877; x_wconf 37' lang='grc' dir='ltr'><em>«ἐξ.</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1612 2837 1616 2840; x_wconf 77' lang='grc'>,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 167 2843 2100 2848">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 167 2843 2100 2848">
+     <span class='ocr_line' id='line_1_3' title="bbox 167 2843 2100 2848; textangle 270"><span class='ocrx_word' id='word_1_7' title='bbox 167 2843 2100 2848; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2095 252 2109 2810">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2095 252 2109 2810">
+     <span class='ocr_line' id='line_1_4' title="bbox 2095 252 2109 2810; textangle 270"><span class='ocrx_word' id='word_1_8' title='bbox 2095 252 2109 2810; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 223 273 1882 2811">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 223 273 1882 2811">
+     <span class='ocr_line' id='line_1_5' title="bbox 223 273 1882 2811; textangle 270"><span class='ocrx_word' id='word_1_9' title='bbox 223 273 1882 2811; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 772 129 2094 250">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 772 129 2094 250">
+     <span class='ocr_line' id='line_1_6' title="bbox 772 129 2094 250; textangle 270"><span class='ocrx_word' id='word_1_10' title='bbox 1986 163 2094 250; x_wconf 43' lang='lat' dir='ltr'><em>w&amp;</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 1304 138 1479 195; x_wconf 54' lang='grc' dir='ltr'><em>,ΕΞ</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 772 129 1219 192; x_wconf 47' lang='lat' dir='ltr'><em>&lt;4330ssss</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 139 1020 145 2846">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 139 1020 145 2846">
+     <span class='ocr_line' id='line_1_7' title="bbox 139 1020 145 2846; textangle 270"><span class='ocrx_word' id='word_1_13' title='bbox 139 1020 145 2846; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

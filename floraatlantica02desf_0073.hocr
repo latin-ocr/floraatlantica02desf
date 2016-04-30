@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./floraatlantica02desf_0073.png"; bbox 0 0 2306 3148; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 80 257 2047 269">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 80 257 2047 269">
+     <span class='ocr_line' id='line_1_1' title="bbox 80 257 2047 269; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 80 257 2047 269; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 510 164 2049 228">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 510 164 2049 228">
+     <span class='ocr_line' id='line_1_2' title="bbox 510 164 2049 228; baseline -0.005 0"><span class='ocrx_word' id='word_1_2' title='bbox 510 164 560 228; x_wconf 58' lang='lat'>(¹</span> <span class='ocrx_word' id='word_1_3' title='bbox 576 176 1189 228; x_wconf 74' lang='lat' dir='ltr'>ORDYLOCARPUS</span> <span class='ocrx_word' id='word_1_4' title='bbox 1296 167 1634 225; x_wconf 53' lang='lat' dir='ltr'>musicam.</span> <span class='ocrx_word' id='word_1_5' title='bbox 1934 169 2049 222; x_wconf 68' lang='lat'>152.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2045 259 2058 2679">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2045 259 2058 2679">
+     <span class='ocr_line' id='line_1_3' title="bbox 2045 259 2058 2679; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 2045 259 2058 2679; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 82 1101 98 2871">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 82 1101 98 2871">
+     <span class='ocr_line' id='line_1_4' title="bbox 82 1101 98 2871; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 82 1101 98 2871; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 91 279 2056 2937">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 91 279 2056 2937">
+     <span class='ocr_line' id='line_1_5' title="bbox 91 279 2056 2937; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 91 279 2056 2937; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 876 2894 2057 2900">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 876 2894 2057 2900">
+     <span class='ocr_line' id='line_1_6' title="bbox 876 2894 2057 2900; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 876 2894 2057 2900; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

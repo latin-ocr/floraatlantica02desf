@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./floraatlantica02desf_0279.png"; bbox 0 0 2306 3148; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 636 87 2047 187">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 636 87 2047 187">
+     <span class='ocr_line' id='line_1_1' title="bbox 636 87 2047 187; baseline -0.006 -24"><span class='ocrx_word' id='word_1_1' title='bbox 636 87 1191 163; x_wconf 67' lang='lat' dir='ltr'><strong>ATRACTYLIS</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1270 101 1474 160; x_wconf 67' lang='lat' dir='ltr'>flava.</span> <span class='ocrx_word' id='word_1_3' title='bbox 1708 92 1872 187; x_wconf 54' lang='lat' dir='ltr'>Pag.</span> <span class='ocrx_word' id='word_1_4' title='bbox 1906 110 2047 173; x_wconf 66' lang='lat'>254.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 79 190 2064 2866">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 79 190 2064 2866">
+     <span class='ocr_line' id='line_1_2' title="bbox 79 190 2064 2866; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 79 190 2064 2866; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 81 2861 2037 2900">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 81 2861 2037 2900">
+     <span class='ocr_line' id='line_1_3' title="bbox 81 2861 2037 2900; baseline -0.004 -6"><span class='ocrx_word' id='word_1_6' title='bbox 81 2871 145 2900; x_wconf 67' lang='grc' dir='ltr'>[[ιῖ</span> <span class='ocrx_word' id='word_1_7' title='bbox 157 2869 270 2894; x_wconf 65' lang='grc' dir='ltr'>[ιίνήυ]ά”</span> <span class='ocrx_word' id='word_1_8' title='bbox 291 2870 338 2895; x_wconf 60' lang='lat' dir='ltr'>ab!v</span> <span class='ocrx_word' id='word_1_9' title='bbox 1843 2862 1974 2888; x_wconf 59' lang='lat' dir='ltr'>Alabum—e</span> <span class='ocrx_word' id='word_1_10' title='bbox 2006 2861 2037 2886; x_wconf 57' lang='lat' dir='ltr'>di·</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 209 2961 215 2991">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 209 2961 215 2991">
+     <span class='ocr_line' id='line_1_4' title="bbox 209 2961 215 2991; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 209 2961 215 2991; x_wconf 75' lang='lat'>&#39;1</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
